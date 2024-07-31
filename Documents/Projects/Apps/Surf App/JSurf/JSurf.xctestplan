@@ -1,0 +1,32 @@
+{
+  "configurations" : [
+    {
+      "id" : "25E57473-049A-48EC-AA5F-984E4DD00C3B",
+      "name" : "Test Scheme Action",
+      "options" : {
+        "targetForVariableExpansion" : {
+          "containerPath" : "container:JSurf.xcodeproj",
+          "identifier" : "04AF7C4B2BE69562007EFE34",
+          "name" : "SurfTests"
+        }
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:JSurf.xcodeproj",
+      "identifier" : "043F27A02B3732960044DE84",
+      "name" : "JSurf"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:JSurf.xcodeproj",
+        "identifier" : "04AF7C4B2BE69562007EFE34",
+        "name" : "SurfTests"
+      }
+    }
+  ],
+  "version" : 1
+}
