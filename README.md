@@ -5,17 +5,22 @@ Welcome to Surf App! This application is designed to help surf enthusiasts track
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Showcase](#showcase)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
 Surf App is a comprehensive tool for surfers. It provides real-time updates on wave conditions, weather forecasts, and allows users to log their surf sessions. Whether you're a beginner or an experienced surfer, Surf App is designed to enhance your surfing experience.
+
+## Showcase
+<img width="357" alt="Screenshot 2025-01-24 at 16 57 57" src="https://github.com/user-attachments/assets/42c711dc-c2a3-4edf-a174-3e099f19ec38" />
+
+<img width="355" alt="Screenshot 2025-01-24 at 16 58 23" src="https://github.com/user-attachments/assets/c1785615-3281-4869-95e1-c987c51a6b55" />
+
+<img width="355" alt="Screenshot 2025-01-24 at 16 58 23" src="https://github.com/user-attachments/assets/7f8f0bf8-0bac-4d49-b6b3-2b38a8b99e64" />
+
+
 
 ## Features
 
@@ -26,11 +31,6 @@ Surf App is a comprehensive tool for surfers. It provides real-time updates on w
 - **Community Features**: Connect with other surfers and share your experiences.
 
 ## Installation
-
-### Prerequisites
-
-- Node.js and npm installed on your machine.
-- A modern web browser.
 
 ### Steps
 
