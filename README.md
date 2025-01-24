@@ -18,7 +18,9 @@ Surf App is a comprehensive tool for surfers. It provides real-time updates on w
 
 <img width="355" alt="Screenshot 2025-01-24 at 16 58 23" src="https://github.com/user-attachments/assets/c1785615-3281-4869-95e1-c987c51a6b55" />
 
-<img width="355" alt="Screenshot 2025-01-24 at 16 58 23" src="https://github.com/user-attachments/assets/7f8f0bf8-0bac-4d49-b6b3-2b38a8b99e64" />
+<img width="359" alt="Screenshot 2025-01-24 at 16 58 46" src="https://github.com/user-attachments/assets/037d7110-5f5a-4de0-afcb-9c98e964a175" />
+
+
 
 
 
