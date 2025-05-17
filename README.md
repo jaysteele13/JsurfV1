@@ -33,9 +33,7 @@ Surf App is a comprehensive tool for surfers. It provides real-time updates on w
 - **Community Features**: Connect with other surfers and share your experiences.
 
 ## Installation
+Due to the nature of the forecasting API, cloning this application may not result in a completed project.
+**Future Work,** includes creating my own API to hit which sources this surfing API logic elsewhere so it isn't hard coded into my application.
 
-### Steps
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:jaysteele13/JsurfV1.git
